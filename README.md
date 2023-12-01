@@ -15,6 +15,6 @@ I'm a passionate full-stack developer with expertise in React.js. Welcome to my 
 - **Deployment**: Heroku, Netlify
 
 ## Projects
-- [Achiever Solution Educations Frontend ReactJs](https://github.com/pobitradolai/fornt-end-achiver-real.git): Brief description
-- [Achiever Solution Educations Backend NodeJs](https://github.com/pobitradolai/sqlconnection-achiver.git): Brief description
+- [Achiever Solution Educations Frontend ReactJs](https://github.com/pobitradolai/fornt-end-achiver-real.git)
+- [Achiever Solution Educations Backend NodeJs](https://github.com/pobitradolai/sqlconnection-achiver.git)
 
