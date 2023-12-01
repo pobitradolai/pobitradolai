@@ -18,7 +18,8 @@ I'm a passionate full-stack developer with expertise in React.js. Welcome to my 
 - [Achiever Solution Educations Frontend ReactJs](https://github.com/pobitradolai/fornt-end-achiver-real.git)
 - [Achiever Solution Educations Backend NodeJs](https://github.com/pobitradolai/sqlconnection-achiver.git)
 
+##
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif" alt="Image" width="500" />
+  <img src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" alt="Image" width="4/2" />
 </p>
 
