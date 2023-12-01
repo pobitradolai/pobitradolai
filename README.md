@@ -19,6 +19,6 @@ I'm a passionate full-stack developer with expertise in React.js. Welcome to my 
 - [Achiever Solution Educations Backend NodeJs](https://github.com/pobitradolai/sqlconnection-achiver.git)
 
 <p align="center">
-  <img src="https://i.pinimg.com/564x/54/f7/37/54f737502df8f8f7333ac3a073a392c3.jpg" alt="Image" width="300" />
+  <img src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif" alt="Image" width="300" />
 </p>
 
