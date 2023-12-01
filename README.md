@@ -18,10 +18,7 @@ I'm a passionate full-stack developer with expertise in React.js. Welcome to my 
 - [Achiever Solution Educations Frontend ReactJs](https://github.com/pobitradolai/fornt-end-achiver-real.git)
 - [Achiever Solution Educations Backend NodeJs](https://github.com/pobitradolai/sqlconnection-achiver.git)
 
-## Image Set
-<!-- Add your images with descriptions -->
 <p align="center">
-  <img src="link-to-image-1.png" alt="Description 1" width="200" />
-  <img src="link-to-image-2.png" alt="Description 2" width="200" />
-  <img src="link-to-image-3.png" alt="Description 3" width="200" />
+  <img src="https://i.pinimg.com/564x/54/f7/37/54f737502df8f8f7333ac3a073a392c3.jpg" alt="Image" width="300" />
 </p>
+
