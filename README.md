@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Pobitra Dolai]
+# Hi there! 👋 I'm Pobitra Dolai
 
 I'm a passionate full-stack developer with expertise in React.js. Welcome to my GitHub profile!
 
