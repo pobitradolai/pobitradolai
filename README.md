@@ -9,10 +9,10 @@ I'm a passionate full-stack developer with expertise in React.js. Welcome to my 
 - 😄 Pronouns: [He/Him]
 
 ## Technologies & Tools
-- **Frontend**: React,HTML, CSS, JavaScript, SCSS
+- **Frontend**: React Js,HTML, CSS, JavaScript, SCSS
 - **Backend**: Node.js, Express
 - **Database**: MongoDB, MySQL
-- **Deployment**: Heroku, Netlify
+- **Deployment**: Vercel, Netlify, VPS
 
 ## Projects
 - [Sahajpath Career Solution Frontend ReactJS](https://github.com/pobitradolai/sahajpath.git)
