@@ -33,6 +33,9 @@ I'm a passionate full-stack developer with expertise in React.js. Welcome to my 
 ## Statistics
 ![Pobitra Dolai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pobitradolai&show_icons=true&theme=radical)
 
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pobitradolai&layout=compact)
+
 ##
 <p align="center">
   <img src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" alt="Image" width="400" />
