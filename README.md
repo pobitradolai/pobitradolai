@@ -30,7 +30,7 @@ I'm a passionate full-stack developer with expertise in React.js. Welcome to my 
 - **Version Control**: Utilizing Git for version control to track changes and collaborate with other developers effectively.
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Implementing automated testing and deployment pipelines for efficient development workflows.
 
-## Statistics
+## Statistics 
 ![Pobitra Dolai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pobitradolai&show_icons=true&theme=radical)
 
 ## Languages
