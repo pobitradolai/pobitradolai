@@ -36,6 +36,12 @@ I'm a passionate full-stack developer with expertise in React.js. Welcome to my 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pobitradolai&layout=compact)
 
+
+## Contact Information
+- **LinkedIn**: [Pobitra Dolai](https://www.linkedin.com/in/pobitra-dolai-214524289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email**: [pobitradolai99@gmail.com](mailto:pobitradolai99@gmail.com)
+
+
 ##
 <p align="center">
   <img src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" alt="Image" width="400" />
